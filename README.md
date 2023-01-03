@@ -66,6 +66,7 @@ Now we'll get back and push evrything we did to Github
 -	git push
 
 If your following along, your ArgoCD management should look like this:
+<br />
 ![Screenshot](https://github.com/matbuha/simple-argoCD/blob/main/images/argocd.png)
 
 ## And that's it, You made it!
